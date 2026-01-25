@@ -7,7 +7,7 @@ public class example12 {
 
         Scanner in = new Scanner(System.in);
 
-        System.out.print("Enter year of birth: ");
+        System.out.print("How old are you: ");
         int age = in.nextInt();
 
         int currentYear = 2026;
