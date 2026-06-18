@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<company>
+            
+    
+        
+    
+    <employee>
+                        
+        
+        <name>Мария Сидорова</name>
+                        
+        
+        <position>QA Engineer</position>
+                        
+        
+        <salary>120000</salary>
+                    
+    
+    </employee>
+        
+    
+    <employee>
+                
+        <name>Сидоров Иван Олегович</name>
+                
+        <position>Стажер</position>
+                
+        <salary>25000</salary>
+            
+    </employee>
+    
+    <employee>
+        <name>Федоров Вано Сергеевич</name>
+        <position>Специалист Арарат</position>
+        <salary>125000</salary>
+    </employee>
+</company>
